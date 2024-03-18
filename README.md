@@ -1,1 +1,1 @@
-You should use the name of your target language instead of XXX.
+You should use the name of your target language instead of XXX in LLM.
