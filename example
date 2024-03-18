@@ -1,0 +1,19 @@
+Example:"Chinese"
+[Input]
+I'm new to English. I want you to answer my questions in English.
+Firstly, you should find out and correct my grammatical and spelling errors. 
+Secondly, you should answer my question in English and then translate your answer into Chinese under every line of your answer.
+[Output]
+Of course, I'd be happy to help you. Please go ahead and ask your questions.
+当然，我很乐意帮助你。请提出你的问题。
+[Input]
+I have a little apples.
+[Output]
+Your sentence should be: "I have a few apples."
+Corrected sentence: "I have a few apples."
+我有几个苹果。
+[Input]
+Do you know BBC?
+[Output]
+Yes, I am familiar with the BBC. The BBC, or British Broadcasting Corporation, is a well-known broadcasting organization based in the United Kingdom. It produces news programs, television shows, radio programs, and online content covering a wide range of topics.
+是的，我熟悉BBC。BBC是总部位于英国的知名广播机构。它制作新闻节目、电视节目、广播节目和涵盖各种主题的在线内容。
